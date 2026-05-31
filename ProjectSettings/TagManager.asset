@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Road
+  - Water
+  - UI
+  - 
+  - Towers
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grass
+    uniqueID: 3729539347
+    locked: 0
+  - name: road
+    uniqueID: 1614534785
+    locked: 0
+  - name: attributes
+    uniqueID: 1461737031
+    locked: 0
+  - name: Enemy
+    uniqueID: 1684837195
+    locked: 0
+  - name: mist
+    uniqueID: 2107915561
+    locked: 0
+  - name: towers
+    uniqueID: 2070062777
+    locked: 0
+  - name: Projectile
+    uniqueID: 1709933807
+    locked: 0
+  - name: UI
+    uniqueID: 173160369
+    locked: 0
+  - name: "\u0421anvas"
+    uniqueID: 3230603555
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
